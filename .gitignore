@@ -1,0 +1,20 @@
+*.idea
+/assets
+/autosave
+/cache
+/clips
+/particles
+/renderData
+/scenes/00_Tests
+/scripts
+/sound
+*.mel
+
+# Tracking:
+# /custom
+# /data
+# /images
+# /movies
+# /published
+# /scenes except 00_Tests
+# /sourceimages

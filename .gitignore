@@ -8,6 +8,7 @@
 /scenes/00_Tests
 /scripts
 /sound
+/scenes/*/[Archive]
 *.mel
 
 # Tracking:

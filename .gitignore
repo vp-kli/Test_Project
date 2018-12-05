@@ -10,6 +10,7 @@
 /sound
 /scenes/**/[Archive]
 *.mel
+/notes
 
 # Tracking:
 # /custom

@@ -1,4 +1,4 @@
-*.idea
+*.idea/
 /assets
 /autosave
 /cache
@@ -8,8 +8,9 @@
 /scenes/00_Tests
 /scripts
 /sound
-#/scenes/**/[Archive]
+/scenes/**/[Archive]
 *.mel
+/notes
 
 # Tracking:
 # /custom

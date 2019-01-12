@@ -11,6 +11,9 @@
 /scenes/**/[Archive]
 *.mel
 /notes
+*.jpg
+*.avi
+*.mov
 
 # Tracking:
 # /custom

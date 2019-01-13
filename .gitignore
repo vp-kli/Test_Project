@@ -14,7 +14,7 @@
 *.jpg
 *.avi
 *.mov
-/scenes
+/scenes/*
 !/scenes/06_Cache
 /images
 

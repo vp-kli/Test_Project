@@ -15,6 +15,7 @@
 *.avi
 *.mov
 /scenes
+/images
 
 # Tracking:
 # /custom
@@ -24,3 +25,5 @@
 # /published
 # /scenes except 00_Tests
 # /sourceimages
+
+# specific to this project

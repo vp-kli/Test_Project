@@ -15,6 +15,7 @@
 *.avi
 *.mov
 /scenes
+!/scenes/06_Cache
 /images
 
 # Tracking:

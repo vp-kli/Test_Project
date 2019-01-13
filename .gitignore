@@ -16,6 +16,7 @@
 *.mov
 /scenes/*
 !/scenes/06_Cache
+!/scenes/08_Animation
 /images
 
 # Tracking:
